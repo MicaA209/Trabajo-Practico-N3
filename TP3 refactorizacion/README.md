@@ -1,7 +1,9 @@
 la estructura del proyecto es basicamente:
 
 /src <-- contiene los archivos de origen cpp [las consignas]
+
 /include <-- declaracion de clases en .h (headers)
+
 /lib <-- implementacion de clases (cpp)
 
 a cada consigna le cree su header, si no, se rehusaba a compilar, lol
