@@ -1,4 +1,4 @@
-#include "../include/redundancias.h"
+#include "redundancias.h"
 
 double minMaxInput(int min, int max)
 {
